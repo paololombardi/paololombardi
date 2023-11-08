@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paololombardi
 - 👀 I’m interested in NLP & CV
-- 🌱 I’m currently learning new GPT models
-- 💞️ I’m looking to collaborate on advanced tools for researchers
+- 🌱 I’m working on LLMs
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : best is email (old school)
 
 <!---
